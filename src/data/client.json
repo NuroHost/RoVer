@@ -1,3 +1,5 @@
 {
-    "token": {{env.TOKEN}}
+    "token" :   {{env.TOKEN}}                     
+    "owner" : {{env.OWNER}}  
+    "commandPrefix" : {{env.PREFIX}  
 }
